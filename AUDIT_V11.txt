@@ -1,0 +1,26 @@
+Controllers: 11; Blade views: 21
+WARN: Check route name: admin.articles.save
+WARN: Check route name: admin.authenticate
+WARN: Check route name: admin.faqs.delete
+WARN: Check route name: admin.faqs.save
+WARN: Check route name: admin.followups.complete
+WARN: Check route name: admin.followups.store
+WARN: Check route name: admin.leads.export
+WARN: Check route name: admin.leads.update
+WARN: Check route name: admin.logout
+WARN: Check route name: admin.media.destroy
+WARN: Check route name: admin.media.publish
+WARN: Check route name: admin.media.store
+WARN: Check route name: admin.pages.save
+WARN: Check route name: admin.programs.save
+WARN: Check route name: admin.registrations.store
+WARN: Check route name: admin.registrations.update
+WARN: Check route name: admin.settings.save
+WARN: Check route name: admin.testimonials.delete
+WARN: Check route name: admin.testimonials.save
+WARN: Check route name: admin.tracking.update
+WARN: Check route name: admin.trust.index
+WARN: Check route name: leads.store
+Static audit: PASSED (runtime not tested)
+
+Exit code: 0
